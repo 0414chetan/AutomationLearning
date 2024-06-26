@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-27T00:16:33 IST" name="Default suite" finished-at="2024-06-27T00:16:50 IST" duration-ms="17011">
+    <groups>
+    </groups>
+    <test started-at="2024-06-27T00:16:33 IST" name="Default test" finished-at="2024-06-27T00:16:50 IST" duration-ms="17011">
+      <class name="learning.UserRegistrationTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:learning.UserRegistrationTest@5340477f]" started-at="2024-06-27T00:16:33 IST" name="setUp" finished-at="2024-06-27T00:16:36 IST" duration-ms="2656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testUserRegistration()[pri:0, instance:learning.UserRegistrationTest@5340477f]" started-at="2024-06-27T00:16:36 IST" name="testUserRegistration" finished-at="2024-06-27T00:16:50 IST" duration-ms="14007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUserRegistration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:learning.UserRegistrationTest@5340477f]" started-at="2024-06-27T00:16:50 IST" name="tearDown" finished-at="2024-06-27T00:16:50 IST" duration-ms="215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- learning.UserRegistrationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
