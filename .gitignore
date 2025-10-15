@@ -1,0 +1,13 @@
+# Build output
+learning/target/
+
+# IDE files
+.idea/
+*.iml
+
+# Logs and reports
+**/allure-results/
+learning/test-output/
+
+# OS files
+.DS_Store
